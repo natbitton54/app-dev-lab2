@@ -1,0 +1,7 @@
+C:\Users\natha\source\repos\Lab2Q2\Lab2Q2\bin\Debug\Lab2Q2.exe.config
+C:\Users\natha\source\repos\Lab2Q2\Lab2Q2\bin\Debug\Lab2Q2.exe
+C:\Users\natha\source\repos\Lab2Q2\Lab2Q2\bin\Debug\Lab2Q2.pdb
+C:\Users\natha\source\repos\Lab2Q2\Lab2Q2\obj\Debug\Lab2Q2.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\Lab2Q2\Lab2Q2\obj\Debug\Lab2Q2.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\Lab2Q2\Lab2Q2\obj\Debug\Lab2Q2.exe
+C:\Users\natha\source\repos\Lab2Q2\Lab2Q2\obj\Debug\Lab2Q2.pdb
